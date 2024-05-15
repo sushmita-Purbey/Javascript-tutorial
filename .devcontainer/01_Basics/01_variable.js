@@ -7,7 +7,7 @@ let accountstate  // this gives output as undefined
 
 // accountId = 3  // we cannot update const
 
-accountEmail = "sumitpurey@123"
+accountEmail = "sumitpureyy@123"
 accountPassword = "4637887934"
 accountCity = "Kolkata"
 
