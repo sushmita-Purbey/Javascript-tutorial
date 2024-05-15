@@ -49,13 +49,22 @@ let stringNumber = String(someNumber);
 // console.log(2-2);
 // console.log(2%2);
 
-let str1 = "Hello"
-let str2 = " Sushmita"
-let str3 = str1 + str2
-console.log(str3);
+// let str1 = "Hello"
+// let str2 = " Sushmita"
+// let str3 = str1 + str2
+// console.log(str3);
 
-console.log("2" + 3);//23
-console.log(3 + "1"); //31
-console.log("3" +2 + 4); //it gives 324
-console.log(1 + 2 + "3");  // it will add 1 and 2 that gives 3 and then ans will be 33
-console.log(true);
+// console.log("2" + 3);//23
+// console.log(3 + "1"); //31
+// console.log("3" +2 + 4); //it gives 324
+// console.log(1 + 2 + "3");  // it will add 1 and 2 that gives 3 and then ans will be 33
+// console.log(true);
+
+// console.log(+true); // goves output as 1
+// console.log(true+); // throws an error
+
+let num1, num2, num3
+num1 = num2 = num3 = 2 + 2
+let gameCounter = 100
+gameCounter++;
+console.log(gameCounter);
