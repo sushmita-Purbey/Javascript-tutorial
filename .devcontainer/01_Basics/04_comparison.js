@@ -5,4 +5,5 @@
 // console.log(undefined > 0);  //  whatever sign will be there undefined will give output as a false
 // console.log(undefined == 0);
 // console.log(undefined >= 0);
-//
+
+//comparison in js
